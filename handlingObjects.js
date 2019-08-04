@@ -34,7 +34,7 @@ function moveForward(car, num) {
 
 
 
-let audiCar = createCar('Audi');
+let audiCar = createCar('Audi', 'Petrol');
 
 audiCar = moveForward(audiCar);
 audiCar = moveForward(audiCar);
